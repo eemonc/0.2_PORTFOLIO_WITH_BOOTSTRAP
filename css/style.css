@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(30, 58, 70);
+  font-size: 20px;
+}
+.nav-item .nav-link {
+  margin: 0 35px;
+}
+.nav-item a:hover {
+  background-color: darkorange;
+  border-radius: 3px;
+}
+.none {
+  text-decoration: none;
+  color: rgb(240, 74, 33);
+}
+.none:hover {
+  color: rgb(255, 238, 0);
+}
+.center {
+  padding-top: 15%;
+}
+
+.banner {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+}
